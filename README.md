@@ -14,7 +14,8 @@ Skills: TensorFlow,Pytorch,scikit learn,Pandas,Matplotlib,Seaborn,Numpy,SQL,MySq
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhtiarmuhib&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bakhtiarmuhib)  
+[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bakhtiarmuhib)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![Profile views](https://gpvc.arturio.dev/bakhtiarmuhib)  
 
