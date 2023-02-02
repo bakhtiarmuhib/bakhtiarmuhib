@@ -11,15 +11,14 @@ As a machine learning and artificial intelligence engineer with a strong underst
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bakhtiarmuhib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bakhtiarmuhib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/bakhtiarmuhib)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiarmuhib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhtiarmuhib&show_icons=true&count_private=true)  
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=buefy&show_icons=true)
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,)
 
 ![Profile views](https://gpvc.arturio.dev/bakhtiarmuhib)  
 
