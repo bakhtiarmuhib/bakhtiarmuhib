@@ -1,7 +1,7 @@
 ![I am Machine learning and Artificial Intelligence Enginner](https://media.licdn.com/dms/image/D5616AQHfpd4NkB_pUg/profile-displaybackgroundimage-shrink_350_1400/0/1675236601090?e=1680739200&v=beta&t=13YPAZQSvDlR-G29LeAzTM6iXJfaUy_CW61bDTzM-g8)
 
-<p aline='center' >###  My name is Bakhtiar Muhib</p>
-<p aline='center' > #### I am Artificial Intelligence and Machine learning Enginner</p>
+<h2 align="center" >  My name is Bakhtiar Muhib</h2>
+<h3 align="center" >  I am Artificial Intelligence and Machine learning Enginner</h2>
 
 
 As a machine learning and artificial intelligence engineer with a strong understanding of data and skills in Python programming, statistics, and deep learning algorithms, I have a solid foundation in the field of machine learning and artificial intelligence. I excel in logical thinking and problem-solving, which allows me to effectively tackle complex challenges in this field. My passion for machine learning is evident through my strong skills in the area, and my desire to work on projects that utilize these skills.
