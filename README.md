@@ -12,7 +12,7 @@ As a machine learning and artificial intelligence engineer with a strong underst
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bakhtiarmuhib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bakhtiarmuhib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/bakhtiarmuhib)  
 
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattni&theme=buefy&show_icons=true)
+![Muhib's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakhtiarmuhib&count_private=true&theme=buefy&show_icons=true)
 
 
 
